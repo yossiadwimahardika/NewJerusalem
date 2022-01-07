@@ -1,10 +1,11 @@
-# New-Jerusalem
-Tugas Proyek Rekayasa Perangkat Lunak Grup B
+# NewJerusalem
+## This project moved from private repository to this public repository
 
-Anggota Kelompok:
-  1. Nathanael Ivan Pratama 71190448
-  2. Yossia Dwi Mahardika 71190468
-  3. Daniel Kusuma Pratama 71190475
+created by:
+
+1. <a href="https://github.com/yossiadwimahardika">Yossia Dwi Mahardika</a>
+2. <a href="https://github.com/danielkusumap">Daniel Kusuma Pratama</a>
+3. Nathanael Ivan Pratama
 
 SS Aplikasi:
 
